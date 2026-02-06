@@ -13,3 +13,6 @@ I used inheritance to make sure I didn't have to copy-paste code for storing res
  
 HOW TO RUN IT:
 Just run the Main.java file.
+
+For:
+Sir Jamie Eduardo Rosal
